@@ -5,7 +5,7 @@ A Music Recomendation System which recommends music to the user on the favourite
 * Make sure the system has the following libraries installed
 * * strealit
   * spotipy
-  * command - pip install strealit spotipy
+  * command - pip install streamlit spotipy
 * Extract the spotify_millsongdata.rar to get the data set needed to train the machine learning model.
 * Run the Model Training.ipynb to generate the trained model file in byte.
 * open the terminal and type - streamlit run app.py
